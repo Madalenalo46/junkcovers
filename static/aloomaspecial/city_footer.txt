@@ -1,0 +1,51 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What is the most common reason for unexpected charges on a dumpster rental bill?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The most frequent cause of extra fees is exceeding the weight allowance included in your initial quote. Heavy materials like roofing shingles, concrete, or wet soil can add up quickly. We work with you upfront to select a dumpster size with a generous weight limit to help you avoid any surprises.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer any kind of protection for my driveway?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, upon request, our drivers can place wooden planks on your driveway before rolling the roll off container into place. This helps to distribute the weight and protect the surface of your driveway. We recommend this for all residential placements.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I put old appliances in the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most appliances are acceptable. However, any appliance that contains Freon, such as a refrigerator, freezer, or air conditioner, must be professionally drained and have a tag or certificate proving it is Freon-free before it can be placed in the dumpster.</p>
+                <h4 class="template4 palooma" style="font-size:large;">I own a restaurant. Can I dispose of used cooking oil in your dumpsters?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No, absolutely not. Liquids of any kind, especially grease and oil, are strictly prohibited in our dumpsters. Used cooking oil must be disposed of through a specialized grease recycling service.</p>
+                <h4 class="template4 palooma" style="font-size:large;">After a storm, I have a lot of wet, heavy debris. Does that affect the rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, potentially. Water adds significant weight to materials like wood, carpet, and drywall. Your roll off rental includes a generous weight allowance, but extremely heavy, wet debris can cause it to be exceeded. We can help you choose a size with a higher weight limit to accommodate this.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do I need to be physically present when your driver delivers the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No, you do not need to be on-site for the delivery. As long as you provide us with clear, specific placement instructions when you place your order, and you ensure the delivery area is completely free of any cars, equipment, or other obstructions, our driver can handle the placement for you.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
